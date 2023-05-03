@@ -1,9 +1,5 @@
 # 22. Generate Parentheses Problem Solved: Uncover the Most Efficient Java Algorithm
 
-Related code_study: https://www.notion.so/22-Generate-Parentheses-3693f83f8b24426989235742513e5fc5
-homepage: No
-languange: Java
-written language: English
 
 # Problem
 
