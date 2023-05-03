@@ -4,5 +4,6 @@ public class Main {
         Solution tt = new Solution();
 
         System.out.println(tt.generateParenthesis(3));
+
     }
 }
